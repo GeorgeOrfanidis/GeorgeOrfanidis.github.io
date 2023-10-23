@@ -270,7 +270,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Orfanidis]
-  first_name: [Georgios, I.]
+  first_name: [Georgios I]
 
   style: apa
   locale: en
