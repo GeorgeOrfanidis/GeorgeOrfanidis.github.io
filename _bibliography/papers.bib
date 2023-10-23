@@ -24,6 +24,7 @@
 }
 
 @inproceedings{orfanidis2022time,
+  abbr={SPIE},
   title={Time-series analysis with small and faulty data: L1-norm decompositions of Hankel matrices},
   author={Orfanidis, Georgios I and Pados, Dimitris A and Sklivanitis, George},
   abstract={In the rapidly advancing field of autonomous systems, real-time operation and monitoring in non-stationary environments frequently relies on analysis (filtering/prediction) of short sequences of sensed data that may be partly unreliable, missing, or faulty. Hankel-matrix representation and decomposition is a model-free approach that is becoming increasingly popular for the analysis of time-series data taking advantage of the progress in linear algebra methods in past years. In this work, we establish that novel L1-norm decompositions of Hankel matrices offer sturdy resistance against partially faulty sensed sequences and, therefore, creates a strong new framework for robust real-time monitoring of autonomous systems. The findings in this paper are illustrated and supported by extensive experimentation on artificial data.},
@@ -34,23 +35,33 @@
   pdf={},
   bibtex_show={true},
   url={https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12097/120970B/Time-series-analysis-with-small-and-faulty-data--L1/10.1117/12.2619243.short?SSO=1},
+  html={https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12097/120970B/Time-series-analysis-with-small-and-faulty-data--L1/10.1117/12.2619243.short?SSO=1},
   organization={SPIE}
 }
 
 @inproceedings{orfanidis2022single,
+  abbr={IEEE},
   title={Single-sample direction-of-arrival estimation by hankel-matrix decompositions},
   author={Orfanidis, Georgios I and Pados, Dimitris A and Sklivanitis, George and Bentley, Elizabeth S and Suprenant, Joseph and Medley, Michael J},
+  abstract = {Modern networked robotic platforms operating autonomously on the ground, in the air, or in space over highfrequency bands (e.g., mm-wave or future THz) require rapid and effective estimation of the direction of arrival (DoA) of signals of interest to maintain high data rate connectivity with each other and avoid interference from external in-band sources. High robotic platform mobility limits -or completely negates- our ability to wait and collect the necessary statistically stationary sequence of antenna-array-front measurements. As a result, conventional statistical DoA estimation optimization methods may not be applicable. In this paper, we present for the first time in the literature a single-sample DoA estimation algorithm based on Hankel-matrix-representation and singular-value decomposition (SVD) of the individual antenna-array snapshot. We compare the newly proposed estimator against the Maximum Likelihood (ML) single-sample estimator of the DoA of a signal observed in white Gaussian noise and -arguably surprisingly- demonstrate significant superiority in each metric of interest, such as meansquare estimation error, bias, and variance.},
   booktitle={2022 56th Asilomar Conference on Signals, Systems, and Computers},
   pages={1026--1030},
   year={2022},
+  url = {https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10051870}, 
+  html = {https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10051870},
   organization={IEEE}
 }
 
 @inproceedings{mazokha2023single,
+  abbr={IEEE},
   title={Single-sample direction-of-arrival estimation for fast and robust 3D localization with real measurements from a massive MIMO system},
   author={Mazokha, Stepan and Naderi, Sanaz and Orfanidis, Georgios I and Sklivanitis, George and Pados, Dimitris A and Hallstrom, Jason O},
+  abstract = {Fast, robust, high-accuracy localization is a key enabler for future location-aware applications in streetscape communication networks and next-generation networked autonomous agents. Specifically, massive multiple-input and multiple-output (MIMO) antenna systems have received increasing attention due to high angular resolution. However, in dense multipath environments, such as urban areas, pure direction-of-arrival (DoA)-based techniques have not been very popular due to large localization errors. In this paper, we present and evaluate, on real measurements from the POWDER-RENEW platform, a novel method to carry out DoA estimation from just one antenna array snapshot. The measurements are taken from an indoor testbed that is based on a massive MIMO orthogonal frequency-division multiplexing (OFDM) system. Experimental results in the presence of spatial aliasing show that for certain emitter locations our proposed universal one-shot DoA estimator outperforms in azimuth/elevation accuracy state-of-the-art subspace-based methods that involve collection of a sufficiently large data record of antenna array snapshots.}, 
   booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   pages={1--5},
   year={2023},
+  url = {https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096647}, 
+  html = {https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096647},
+  code = {https://github.com/C2A2-at-Florida-Atlantic-University/icasp_single_sample_doa_estimation}, 
   organization={IEEE}
 }
