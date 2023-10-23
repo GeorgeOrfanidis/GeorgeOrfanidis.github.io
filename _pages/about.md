@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.fau.edu/engineering/research/c2a2/'>FAU Center for Connected Autonomy and Artificial Intelligence</a> & <a href='https://www.fau.edu/isense/'>I-SENSE</a>. Dept. of Electrical Engineering and Computer Science, Florida Atlantic University, Boca Raton, FL 33431, USA
 
