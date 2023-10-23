@@ -13,11 +13,11 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 Georgios Ierotheos Orfanidis was born in Thessaloniki, Greece on April 8, 1999. He received his Bachelor's degree in Computer Science with a minor in Mathematics from Winthrop University, SC, U.S.A. in 2021 where he studied with a full athletic scholarship. He was selected by the faculty for his excellence, service, and leadership as he was recognized as the single best Computer Science graduate.
 
-Since August 2021, Georgios has been a Computer Science Ph.D. student in the Department of Electrical Engineering and Computer Science at Florida Atlantic University and a research assistant at the FAU Center for Connected Autonomy and Artificial Intelligence. In May 2023, he received his M.Sc. “along the way” in Artificial Intelligence from FAU with a perfect 4.0 GPA. Georgios also received the FAU Academic Excellence Award and the FAU Research Contribution Award for his stellar academic performance and research contributions, respectively.
+Since August 2021, Georgios has been a Computer Science Ph.D. student in the Department of Electrical Engineering and Computer Science at Florida Atlantic University and a research assistant at the [FAU Center for Connected Autonomy and Artificial Intelligence](https://www.fau.edu/engineering/research/c2a2/). In May 2023, he received his M.Sc. “along the way” in Artificial Intelligence from FAU with a perfect 4.0 GPA. Georgios also received the FAU Academic Excellence Award and the FAU Research Contribution Award for his stellar academic performance and research contributions, respectively.
 
 Georgios’ research interests are in the areas of signal processing, artificial intelligence, and machine learning, with an emphasis on data series analysis (collected across time or space) in non-stationary environments with applications to autonomous system operations.
 
