@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.fau.edu/engineering/research/c2a2/'>FAU Center for Connected Autonomy and Artificial Intelligence</a> & <a href='https://www.fau.edu/isense/'>I-SENSE</a>. Dept. of Electrical Engineering and Computer Science, Florida Atlantic University, Boca Raton, FL 33431, USA
+subtitle: Ph.D. Candidate at <a href='https://www.fau.edu/engineering/research/c2a2/'>FAU Center for Connected Autonomy and Artificial Intelligence</a> & <a href='https://www.fau.edu/isense/'>I-SENSE</a>. Dept. of Electrical Engineering and Computer Science, Florida Atlantic University, Boca Raton, FL 33431, USA
 
 profile:
   align: right
@@ -15,13 +15,13 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Georgios Ierotheos Orfanidis was born in Thessaloniki, Greece on April 8, 1999. He received his Bachelor's degree in Computer Science with a minor in Mathematics from Winthrop University, SC, U.S.A. in 2021 where he studied with a full athletic scholarship. He was selected by the faculty for his excellence, service, and leadership as he was recognized as the single best Computer Science graduate.
+I was born in Thessaloniki, Greece on April 8, 1999. I received my Bachelor's degree in Computer Science with a minor in Mathematics from Winthrop University, SC, U.S.A. in 2021 where I studied with a full athletic scholarship. I was selected by the faculty for excellence, service, and leadership as I was recognized as the single best Computer Science graduate.
 
-Since August 2021, Georgios has been a Computer Science Ph.D. student in the Department of Electrical Engineering and Computer Science at Florida Atlantic University and a research assistant at the [FAU Center for Connected Autonomy and Artificial Intelligence](https://www.fau.edu/engineering/research/c2a2/). In May 2023, he received his M.Sc. “along the way” in Artificial Intelligence from FAU with a perfect 4.0 GPA. Georgios also received the FAU Academic Excellence Award and the FAU Research Contribution Award for his stellar academic performance and research contributions, respectively.
+Since August 2021, I have been a Computer Science Ph.D. student in the Department of Electrical Engineering and Computer Science at Florida Atlantic University and a research assistant at the [FAU Center for Connected Autonomy and Artificial Intelligence](https://www.fau.edu/engineering/research/c2a2/). In May 2023, I received my M.Sc. “along the way” in Artificial Intelligence from FAU with a perfect 4.0 GPA. I also received the FAU Academic Excellence Award and the FAU Research Contribution Award for my academic performance and research contributions, respectively.
 
-Georgios’ research interests are in the areas of signal processing, artificial intelligence, and machine learning, with an emphasis on data series analysis (collected across time or space) in non-stationary environments with applications to autonomous system operations.
+My research interests are in the areas of signal processing, artificial intelligence, and machine learning, with an emphasis on data series analysis (collected across time or space) in non-stationary environments with applications to autonomous system operations.
 
-Mr. Georgios Orfanidis is a Graduate Student Member of the IEEE Signal Processing and Young Professionals Societies. He has also served as a reviewer for the 2023 IEEE Asilomar Conference on Signals, Systems, and Computers
+I am a Graduate Student Member of the IEEE Signal Processing and Young Professionals Societies. I have also served as a reviewer for the 2023 IEEE Asilomar Conference on Signals, Systems, and Computers
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
