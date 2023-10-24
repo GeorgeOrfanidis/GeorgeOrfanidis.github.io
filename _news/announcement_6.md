@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Georgios Orfanidis receives his M.Sc. “along the way” in Artificial Intelligence from FAU. 
+I received my M.Sc. “along the way” in Artificial Intelligence from FAU. 

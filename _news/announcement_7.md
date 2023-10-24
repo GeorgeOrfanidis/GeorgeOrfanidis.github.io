@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received the FAU Research Contribution Award.
+I have succesfully passed the Ph.D. Qualification Exam! Grade: 95/100.

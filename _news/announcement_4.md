@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Georgios Orfanidis will be serving as a reviewer for the 2023 IEEE Asilomar Conference on Signals, Systems, and Computers.
+I will be serving as a reviewer for the 2023 IEEE Asilomar Conference on Signals, Systems, and Computers.
