@@ -21,7 +21,7 @@ Since August 2021, I have been a Computer Science Ph.D. student in the Departmen
 
 My research interests are in the areas of signal processing, artificial intelligence, and machine learning, with an emphasis on data series analysis (collected across time or space) in non-stationary environments with applications to autonomous system operations.
 
-I am a Graduate Student Member of the IEEE Signal Processing and Young Professionals Societies. I have also served as a reviewer for the 2023 IEEE Asilomar Conference on Signals, Systems, and Computers
+I am a Graduate Student Member of the IEEE Signal Processing and Young Professionals Societies. I have also served as a reviewer for the 2023 IEEE Asilomar Conference on Signals, Systems, and Computers.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
