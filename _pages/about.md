@@ -15,13 +15,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I was born in Thessaloniki, Greece on April 8, 1999. I received my Bachelor's degree in Computer Science with a minor in Mathematics from Winthrop University, SC, U.S.A. in 2021 where I studied with a full athletic scholarship. I was selected by the faculty for excellence, service, and leadership as I was recognized as the single best Computer Science graduate.
 
-Since August 2021, I have been a Computer Science Ph.D. student in the Department of Electrical Engineering and Computer Science at Florida Atlantic University and a research assistant at the [FAU Center for Connected Autonomy and Artificial Intelligence](https://www.fau.edu/engineering/research/c2a2/). In May 2023, I received my M.Sc. “along the way” in Artificial Intelligence from FAU with a perfect 4.0 GPA. I also received the FAU Academic Excellence Award and the FAU Research Contribution Award for my academic performance and research contributions, respectively.
+I am Computer Science Ph.D. candidate in the Department of Electrical Engineering and Computer Science at Florida Atlantic University and a research assistant at the [FAU Center for Connected Autonomy and Artificial Intelligence](https://www.fau.edu/engineering/research/c2a2/). I am expected to graduate in May 2026.
 
-My research interests are in the areas of signal processing, artificial intelligence, and machine learning, with an emphasis on data series analysis (collected across time or space) in non-stationary environments with applications to autonomous system operations.
-
-I am a Graduate Student Member of the IEEE Signal Processing and Young Professionals Societies. I have also served as a reviewer for the 2023 IEEE Asilomar Conference on Signals, Systems, and Computers.
+My research interests extend to the broad spectrum of machine learning, artificial intelligence, and signal processing, conducting research for distributed joint team training and operation of wirelessly connected AI agents, with an emphasis on single-sample space and time series inference in non-stationary environments (ground, air, and space).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
