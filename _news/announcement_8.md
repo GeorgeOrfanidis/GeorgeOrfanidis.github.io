@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received the Academic Achievement Award from the College of Engineering and Computer Science,Florida Atlantic University.
+I received the academic achievement award from the College of Engineering and Computer Science, Florida Atlantic University.

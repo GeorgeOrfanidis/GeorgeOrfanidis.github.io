@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I received the Best Poster Ph.D. Award from the College of Engineering and Computer Science,Florida Atlantic University. Poster title: "One-shot Signal Direction-of-Arrival Estimation: Below Cramer-Rao
+I received the best poster Ph.D. award from the College of Engineering and Computer Science, Florida Atlantic University. Poster title: "One-shot Signal Direction-of-Arrival Estimation: Below Cramer-Rao
 Bound Performance".
